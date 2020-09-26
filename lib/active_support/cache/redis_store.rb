@@ -1,4 +1,5 @@
 # encoding: UTF-8
+
 require 'redis-store'
 
 module ActiveSupport
